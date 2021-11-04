@@ -1,0 +1,93 @@
+
+<http://synbict.org/KY484012/annotation0/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/KY484012/annotation0/range> <http://sbols.org/v3#end> "720" .
+<http://synbict.org/KY484012/annotation0/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/KY484012_seq> .
+<http://synbict.org/KY484012/annotation0/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/KY484012/annotation0/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/KY484012/annotation0/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012/annotation0/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/KY484012/annotation0> <http://purl.org/dc/terms/title> "synthetic construct" .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/genBankConversion#db_xref> "taxon:32630" .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/genBankConversion#mol_type> "other DNA" .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/genBankConversion#organism> "synthetic construct" .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/v3#displayId> "annotation0" .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/v3#hasLocation> <http://synbict.org/KY484012/annotation0/range> .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/v3#name> "synthetic construct" .
+<http://synbict.org/KY484012/annotation0> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0002206> .
+<http://synbict.org/KY484012/annotation0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012/annotation0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/KY484012/annotation1/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/KY484012/annotation1/range> <http://sbols.org/v3#end> "720" .
+<http://synbict.org/KY484012/annotation1/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/KY484012_seq> .
+<http://synbict.org/KY484012/annotation1/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/KY484012/annotation1/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/KY484012/annotation1/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012/annotation1/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/KY484012/annotation1> <http://purl.org/dc/terms/title> "cpmCerulean3" .
+<http://synbict.org/KY484012/annotation1> <http://sbols.org/genBankConversion#gene> "cpmCerulean3" .
+<http://synbict.org/KY484012/annotation1> <http://sbols.org/v3#displayId> "annotation1" .
+<http://synbict.org/KY484012/annotation1> <http://sbols.org/v3#hasLocation> <http://synbict.org/KY484012/annotation1/range> .
+<http://synbict.org/KY484012/annotation1> <http://sbols.org/v3#name> "cpmCerulean3" .
+<http://synbict.org/KY484012/annotation1> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000704> .
+<http://synbict.org/KY484012/annotation1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012/annotation1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/KY484012/annotation2/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/KY484012/annotation2/range> <http://sbols.org/v3#end> "720" .
+<http://synbict.org/KY484012/annotation2/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/KY484012_seq> .
+<http://synbict.org/KY484012/annotation2/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/KY484012/annotation2/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/KY484012/annotation2/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012/annotation2/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/KY484012/annotation2> <http://purl.org/dc/terms/title> "mCerulean3" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#codon_start> "1" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#gene> "cpmCerulean3" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#note> "enhanced cyan fluorescent protein; codon-optimized for expression from the Chlamydomonas reinhardtii chloroplast" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#product> "mCerulean3" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#protein_id> "ATP07149.1" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#transl_table> "11" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/genBankConversion#translation> "MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAIHGNVYITADKQKNGIKANFGLNCNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/v3#displayId> "annotation2" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/v3#hasLocation> <http://synbict.org/KY484012/annotation2/range> .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/v3#name> "mCerulean3" .
+<http://synbict.org/KY484012/annotation2> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000316> .
+<http://synbict.org/KY484012/annotation2> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012/annotation2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/KY484012/reference0> <http://www.ncbi.nlm.nih.gov/genbank#authors> "Boehm,C.R., Gorchs Rovira,A. and Mehrshahi,P." .
+<http://synbict.org/KY484012/reference0> <http://www.ncbi.nlm.nih.gov/genbank#journal> "Unpublished" .
+<http://synbict.org/KY484012/reference0> <http://www.ncbi.nlm.nih.gov/genbank#label> "1  (bases 1 to 720)" .
+<http://synbict.org/KY484012/reference0> <http://www.ncbi.nlm.nih.gov/genbank#title> "Implementation of a synthetic transcriptional and gate in the chloroplast of Chlamydomonas reinhardtii" .
+<http://synbict.org/KY484012/reference0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ncbi.nlm.nih.gov/genbank#Reference> .
+<http://synbict.org/KY484012/reference1> <http://www.ncbi.nlm.nih.gov/genbank#authors> "Boehm,C.R., Gorchs Rovira,A. and Mehrshahi,P." .
+<http://synbict.org/KY484012/reference1> <http://www.ncbi.nlm.nih.gov/genbank#journal> "Submitted (16-JAN-2017) Plant Sciences, University of Cambridge, Downing Street, Cambridge, Cambridgeshire CB2 3EA, United Kingdom" .
+<http://synbict.org/KY484012/reference1> <http://www.ncbi.nlm.nih.gov/genbank#label> "2  (bases 1 to 720)" .
+<http://synbict.org/KY484012/reference1> <http://www.ncbi.nlm.nih.gov/genbank#title> "Direct Submission" .
+<http://synbict.org/KY484012/reference1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ncbi.nlm.nih.gov/genbank#Reference> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#description> "Synthetic construct mCerulean3 (cpmCerulean3) gene, complete cds." .
+<http://synbict.org/KY484012> <http://sbols.org/v3#displayId> "KY484012" .
+<http://synbict.org/KY484012> <http://sbols.org/v3#hasFeature> <http://synbict.org/KY484012/annotation0> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#hasFeature> <http://synbict.org/KY484012/annotation1> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#hasFeature> <http://synbict.org/KY484012/annotation2> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#hasSequence> <http://synbict.org/KY484012_seq> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000804> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#type> <http://identifiers.org/so/SO:0000987> .
+<http://synbict.org/KY484012> <http://sbols.org/v3#type> <https://identifiers.org/SBO:0000251> .
+<http://synbict.org/KY484012> <http://sboltools.org/backport#sbol2type> <http://sbols.org/v2#ComponentDefinition> .
+<http://synbict.org/KY484012> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#comment> "##Assembly-Data-START## Sequencing Technology :: Sanger dideoxy sequencing ##Assembly-Data-END##" .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#date> "01-NOV-2017" .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#division> "SYN" .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#keywords> "." .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#locus> "KY484012" .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#molecule> "DNA" .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#organism> "synthetic construct other sequences; artificial sequences." .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#reference> <http://synbict.org/KY484012/reference0> .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#reference> <http://synbict.org/KY484012/reference1> .
+<http://synbict.org/KY484012> <http://www.ncbi.nlm.nih.gov/genbank#source> "synthetic construct" .
+<http://synbict.org/KY484012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Component> .
+<http://synbict.org/KY484012_seq> <http://sbols.org/v3#displayId> "KY484012_seq" .
+<http://synbict.org/KY484012_seq> <http://sbols.org/v3#elements> "atggtttctaaaggtgaagaattattcactggtgttgtaccaattttagttgaattagatggtgacgtaaacggtcacaaattctcagtatcaggtgaaggtgaaggtgatgctacttacggtaaattaactttaaaattcatttgtacaacaggtaaattaccagttccatggccaactttagtaacaactttatcttggggtgtacaatgtttcgctcgttacccagatcacatgaaacaacacgacttcttcaaatcagctatgccagaaggttacgtacaagaacgtactattttcttcaaagatgatggtaactacaaaacacgtgctgaagttaaattcgaaggtgatactttagtaaaccgtattgaattaaaaggtattgatttcaaagaagatggtaacattttaggtcacaaattagaatacaacgctattcacggtaacgtatacattactgctgataaacaaaaaaacggtattaaagctaacttcggtttaaactgtaacattgaagatggttcagtacaattagctgatcactaccaacaaaacactccaattggtgatggtccagttttattaccagataaccactacttatcaactcaatctaaattatctaaagatccaaacgaaaaacgtgaccacatggttttattagaattcgtaactgctgctggtattactttaggtatggatgaattatacaaataa" .
+<http://synbict.org/KY484012_seq> <http://sbols.org/v3#encoding> <https://identifiers.org/edam:format_1207> .
+<http://synbict.org/KY484012_seq> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/KY484012_seq> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/KY484012_seq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Sequence> .
