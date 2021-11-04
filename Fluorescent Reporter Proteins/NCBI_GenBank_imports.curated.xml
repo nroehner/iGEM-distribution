@@ -1,109 +1,109 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:gbConv="http://sbols.org/genBankConversion#" xmlns:sbol="http://sbols.org/v2#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:genbank="http://www.ncbi.nlm.nih.gov/genbank#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:om="http://www.ontology-of-units-of-measure.org/resource/om-2/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:igem="http://wiki.synbiohub.org/wiki/Terms/igem#" xmlns:sbh="http://wiki.synbiohub.org/wiki/Terms/synbiohub#">
   <sbol:ComponentDefinition rdf:about="http://synbict.org/KY484012/1">
-    <genbank:comment>##Assembly-Data-START## Sequencing Technology :: Sanger dideoxy sequencing ##Assembly-Data-END##</genbank:comment>
-    <genbank:reference rdf:resource="http://synbict.org/KY484012/reference1"/>
-    <genbank:molecule>DNA</genbank:molecule>
-    <genbank:locus>KY484012</genbank:locus>
-    <sbol:sequenceAnnotation>
-      <sbol:SequenceAnnotation rdf:about="http://synbict.org/KY484012/annotation0/1">
-        <sbol:role rdf:resource="http://identifiers.org/so/SO:0002206"/>
-        <gbConv:db_xref>taxon:32630</gbConv:db_xref>
-        <gbConv:organism>synthetic construct</gbConv:organism>
-        <dcterms:title>synthetic construct</dcterms:title>
-        <gbConv:mol_type>other DNA</gbConv:mol_type>
-        <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation0"/>
-        <sbol:displayId>annotation0</sbol:displayId>
-        <sbol:version>1</sbol:version>
-        <sbol:location>
-          <sbol:Range rdf:about="http://synbict.org/KY484012/annotation0/range/1">
-            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
-            <sbol:displayId>range</sbol:displayId>
-            <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation0/range"/>
-            <sbol:start>1</sbol:start>
-            <sbol:end>720</sbol:end>
-            <sbol:version>1</sbol:version>
-          </sbol:Range>
-        </sbol:location>
-      </sbol:SequenceAnnotation>
-    </sbol:sequenceAnnotation>
-    <dcterms:description>Synthetic construct mCerulean3 (cpmCerulean3) gene, complete cds.</dcterms:description>
     <sbol:sequenceAnnotation>
       <sbol:SequenceAnnotation rdf:about="http://synbict.org/KY484012/annotation1/1">
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000704"/>
+        <gbConv:gene>cpmCerulean3</gbConv:gene>
         <sbol:location>
           <sbol:Range rdf:about="http://synbict.org/KY484012/annotation1/range/1">
-            <sbol:version>1</sbol:version>
             <sbol:displayId>range</sbol:displayId>
-            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
             <sbol:start>1</sbol:start>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
             <sbol:end>720</sbol:end>
             <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation1/range"/>
+            <sbol:version>1</sbol:version>
           </sbol:Range>
         </sbol:location>
-        <sbol:version>1</sbol:version>
-        <dcterms:title>cpmCerulean3</dcterms:title>
-        <gbConv:gene>cpmCerulean3</gbConv:gene>
-        <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation1"/>
         <sbol:displayId>annotation1</sbol:displayId>
-        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000704"/>
+        <dcterms:title>cpmCerulean3</dcterms:title>
+        <sbol:version>1</sbol:version>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation1"/>
       </sbol:SequenceAnnotation>
     </sbol:sequenceAnnotation>
-    <genbank:date>01-NOV-2017</genbank:date>
-    <genbank:keywords>.</genbank:keywords>
-    <genbank:division>SYN</genbank:division>
-    <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012"/>
-    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000804"/>
-    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
-    <sbol:version>1</sbol:version>
-    <sbol:sequence rdf:resource="http://synbict.org/KY484012_seq/1"/>
-    <sbol:type rdf:resource="http://identifiers.org/so/SO:0000987"/>
-    <genbank:reference rdf:resource="http://synbict.org/KY484012/reference0"/>
-    <sbol:displayId>KY484012</sbol:displayId>
-    <genbank:source>synthetic construct</genbank:source>
-    <genbank:organism>synthetic construct other sequences; artificial sequences.</genbank:organism>
     <sbol:sequenceAnnotation>
       <sbol:SequenceAnnotation rdf:about="http://synbict.org/KY484012/annotation2/1">
-        <gbConv:codon_start>1</gbConv:codon_start>
-        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
-        <gbConv:product>mCerulean3</gbConv:product>
         <sbol:displayId>annotation2</sbol:displayId>
-        <gbConv:translation>MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAIHGNVYITADKQKNGIKANFGLNCNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK</gbConv:translation>
-        <gbConv:protein_id>ATP07149.1</gbConv:protein_id>
-        <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation2"/>
+        <sbol:version>1</sbol:version>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
+        <gbConv:transl_table>11</gbConv:transl_table>
         <dcterms:title>mCerulean3</dcterms:title>
+        <gbConv:product>mCerulean3</gbConv:product>
         <sbol:location>
           <sbol:Range rdf:about="http://synbict.org/KY484012/annotation2/range/1">
             <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
             <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation2/range"/>
             <sbol:displayId>range</sbol:displayId>
-            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:end>720</sbol:end>
             <sbol:start>1</sbol:start>
+          </sbol:Range>
+        </sbol:location>
+        <gbConv:translation>MVSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLSWGVQCFARYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNAIHGNVYITADKQKNGIKANFGLNCNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSKLSKDPNEKRDHMVLLEFVTAAGITLGMDELYK</gbConv:translation>
+        <gbConv:gene>cpmCerulean3</gbConv:gene>
+        <gbConv:codon_start>1</gbConv:codon_start>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation2"/>
+        <gbConv:protein_id>ATP07149.1</gbConv:protein_id>
+        <gbConv:note>enhanced cyan fluorescent protein; codon-optimized for expression from the Chlamydomonas reinhardtii chloroplast</gbConv:note>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <genbank:division>SYN</genbank:division>
+    <sbol:version>1</sbol:version>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000804"/>
+    <genbank:comment>##Assembly-Data-START## Sequencing Technology :: Sanger dideoxy sequencing ##Assembly-Data-END##</genbank:comment>
+    <sbol:sequence rdf:resource="http://synbict.org/KY484012_seq/1"/>
+    <genbank:date>01-NOV-2017</genbank:date>
+    <genbank:locus>KY484012</genbank:locus>
+    <genbank:source>synthetic construct</genbank:source>
+    <genbank:reference rdf:resource="http://synbict.org/KY484012/reference1"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/KY484012/annotation0/1">
+        <gbConv:mol_type>other DNA</gbConv:mol_type>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/KY484012/annotation0/range/1">
+            <sbol:start>1</sbol:start>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation0/range"/>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
             <sbol:end>720</sbol:end>
           </sbol:Range>
         </sbol:location>
-        <gbConv:note>enhanced cyan fluorescent protein; codon-optimized for expression from the Chlamydomonas reinhardtii chloroplast</gbConv:note>
+        <gbConv:db_xref>taxon:32630</gbConv:db_xref>
+        <sbol:displayId>annotation0</sbol:displayId>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012/annotation0"/>
         <sbol:version>1</sbol:version>
-        <gbConv:gene>cpmCerulean3</gbConv:gene>
-        <gbConv:transl_table>11</gbConv:transl_table>
+        <gbConv:organism>synthetic construct</gbConv:organism>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0002206"/>
+        <dcterms:title>synthetic construct</dcterms:title>
       </sbol:SequenceAnnotation>
     </sbol:sequenceAnnotation>
+    <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012"/>
+    <genbank:molecule>DNA</genbank:molecule>
+    <sbol:displayId>KY484012</sbol:displayId>
+    <genbank:organism>synthetic construct other sequences; artificial sequences.</genbank:organism>
+    <sbol:type rdf:resource="http://identifiers.org/so/SO:0000987"/>
+    <genbank:reference rdf:resource="http://synbict.org/KY484012/reference0"/>
+    <dcterms:description>Synthetic construct mCerulean3 (cpmCerulean3) gene, complete cds.</dcterms:description>
+    <genbank:keywords>.</genbank:keywords>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
   </sbol:ComponentDefinition>
   <genbank:Reference rdf:about="http://synbict.org/KY484012/reference0">
-    <genbank:label>1  (bases 1 to 720)</genbank:label>
-    <genbank:authors>Boehm,C.R., Gorchs Rovira,A. and Mehrshahi,P.</genbank:authors>
     <genbank:journal>Unpublished</genbank:journal>
+    <genbank:authors>Boehm,C.R., Gorchs Rovira,A. and Mehrshahi,P.</genbank:authors>
+    <genbank:label>1  (bases 1 to 720)</genbank:label>
     <genbank:title>Implementation of a synthetic transcriptional and gate in the chloroplast of Chlamydomonas reinhardtii</genbank:title>
   </genbank:Reference>
   <genbank:Reference rdf:about="http://synbict.org/KY484012/reference1">
-    <genbank:title>Direct Submission</genbank:title>
-    <genbank:authors>Boehm,C.R., Gorchs Rovira,A. and Mehrshahi,P.</genbank:authors>
-    <genbank:journal>Submitted (16-JAN-2017) Plant Sciences, University of Cambridge, Downing Street, Cambridge, Cambridgeshire CB2 3EA, United Kingdom</genbank:journal>
     <genbank:label>2  (bases 1 to 720)</genbank:label>
+    <genbank:title>Direct Submission</genbank:title>
+    <genbank:journal>Submitted (16-JAN-2017) Plant Sciences, University of Cambridge, Downing Street, Cambridge, Cambridgeshire CB2 3EA, United Kingdom</genbank:journal>
+    <genbank:authors>Boehm,C.R., Gorchs Rovira,A. and Mehrshahi,P.</genbank:authors>
   </genbank:Reference>
   <sbol:Sequence rdf:about="http://synbict.org/KY484012_seq/1">
-    <sbol:version>1</sbol:version>
     <sbol:displayId>KY484012_seq</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
     <sbol:elements>atggtttctaaaggtgaagaattattcactggtgttgtaccaattttagttgaattagatggtgacgtaaacggtcacaaattctcagtatcaggtgaaggtgaaggtgatgctacttacggtaaattaactttaaaattcatttgtacaacaggtaaattaccagttccatggccaactttagtaacaactttatcttggggtgtacaatgtttcgctcgttacccagatcacatgaaacaacacgacttcttcaaatcagctatgccagaaggttacgtacaagaacgtactattttcttcaaagatgatggtaactacaaaacacgtgctgaagttaaattcgaaggtgatactttagtaaaccgtattgaattaaaaggtattgatttcaaagaagatggtaacattttaggtcacaaattagaatacaacgctattcacggtaacgtatacattactgctgataaacaaaaaaacggtattaaagctaacttcggtttaaactgtaacattgaagatggttcagtacaattagctgatcactaccaacaaaacactccaattggtgatggtccagttttattaccagataaccactacttatcaactcaatctaaattatctaaagatccaaacgaaaaacgtgaccacatggttttattagaattcgtaactgctgctggtattactttaggtatggatgaattatacaaataa</sbol:elements>
     <sbol:persistentIdentity rdf:resource="http://synbict.org/KY484012_seq"/>
-    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
   </sbol:Sequence>
 </rdf:RDF>
