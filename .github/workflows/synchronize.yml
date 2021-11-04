@@ -186,6 +186,7 @@ jobs:
 
   curate_genbank:
     name: Curate and export GenBank
+    needs: build_distribution
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
