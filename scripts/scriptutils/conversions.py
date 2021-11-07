@@ -200,10 +200,8 @@ def convert_package_genbank_to_sbol2(package: str, namespace: str) -> dict[str, 
         doc2 = convert_from_genbank_to_sbol2(file, namespace)
         # check if it's valid before writing
         report = doc2.validate()
-        if len(report.errors) > 0:
+        if report == 'Invalid.':
             logging.warning('GenBank conversion failed: SBOL2 file has errors')
-            for issue in report.errors:
-                logging.warning(issue)
             continue
 
         print(f'Writing SBOL2 GenBank-conversion file to {file2}')
