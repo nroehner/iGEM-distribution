@@ -185,7 +185,7 @@ jobs:
           branch: ${{ github.ref }}
 
   curate_genbank:
-    name: Curate and export GenBank
+    name: Curate GenBank
     needs: build_distribution
     runs-on: ubuntu-latest
     steps:
@@ -206,8 +206,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
-      - name: Curate GenBank
-        run: python3 scripts/curate_genbank.py
+      - name: Convert GenBank imports to SBOL2
+        run: python3 scripts/convert_genbank_to_sbol2.py
+
+      - name: Curate SBOL2 converted from GenBank
+        run: python3 scripts/curate_sbol2_gbconv.py
 
       - name: Commit changes, ready to push
         run: |
