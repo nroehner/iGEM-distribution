@@ -23,11 +23,10 @@ OPEN_YEAST_OPTIONS = ['-m', '1'
                       '-ni',
                       '-a']
 
-CURATION_SELECTOR = {'Fluorescent Reporter Proteins': fluorescent_reporter_options,
-                     'Open Yeast Collection': open_yeast_options}
+CURATION_SELECTOR = {'Fluorescent Reporter Proteins': REPORTER_OPTIONS,
+                     'Open Yeast Collection': OPEN_YEAST_OPTIONS}
 
 
-# def curate_package_sbol2_gbconv(package: str, namespace: str, sbh_URL: str, feature_URLs=[]) -> dict[str, str]:
 def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str]:
 	"""Find all SBOL2 GenBank-conversion files in a package directory and curate them using SYNBICT
 
