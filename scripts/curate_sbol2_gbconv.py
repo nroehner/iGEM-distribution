@@ -28,7 +28,7 @@ CURATION_SELECTOR = {'Fluorescent Reporter Proteins': REPORTER_OPTIONS,
 
 
 def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str]:
-	"""Find all SBOL2 GenBank-conversion files in a package directory and curate them using SYNBICT
+    """Find all SBOL2 GenBank-conversion files in a package directory and curate them using SYNBICT
 
     :param package: path of package to search
     :return: dictionary mapping paths of SBOL2 inputs to curated outputs
