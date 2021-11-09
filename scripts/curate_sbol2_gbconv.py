@@ -6,8 +6,6 @@ import scriptutils
 
 import sequences_to_features
 
-from sbol_utilities.helper_functions import GBCONV_FILE_TYPES
-
 REPORTER_OPTIONS = ['-m', '1'
                     '-M', '10',
                     '-U', 'https://synbiohub.org',
@@ -36,7 +34,8 @@ def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str
 
     # import SBOL2 converted from GenBank
     target_files = []
-    for file in itertools.chain(*(glob.glob(os.path.join(package, f'*{ext}')) for ext in GBCONV_FILE_TYPES)):
+    for file in itertools.chain(*(glob.glob(os.path.join(package, f'*{ext}'))
+                                for ext in scriptutils.GBCONV_FILE_TYPES)):
         target_files.append(file)
 
     # make curated SBOL2 versions of the SBOL2 GenBank-conversion file names
