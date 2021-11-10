@@ -4,15 +4,13 @@ import git
 
 import scriptutils
 
-import sequences_to_features
-
-REPORTER_OPTIONS = ['-m', '1'
-                    '-M', '10',
-                    '-U', 'https://synbiohub.org',
-                    '-F', 'https://synbiohub.org/public/igem/cds_reporter/1',
-                    '-ni',
-                    '-cm',
-                    '-a']
+FLUORESCENT_REPORTER_OPTIONS = ['-m', '1' # Minimum target length
+                                '-M', '10', # Minimum feature length
+                                '-U', 'https://synbiohub.org', # SynBioHub URL
+                                '-F', 'https://synbiohub.org/public/igem/cds_reporter/1', # Feature URL
+                                '-ni', # Non-interactive
+                                '-cm', # Complete matches allowed
+                                '-a'] # Merge compatible annotations
 
 OPEN_YEAST_OPTIONS = ['-m', '1'
                       '-M', '10',
@@ -21,34 +19,8 @@ OPEN_YEAST_OPTIONS = ['-m', '1'
                       '-ni',
                       '-a']
 
-CURATION_SELECTOR = {'Fluorescent Reporter Proteins': REPORTER_OPTIONS,
+CURATION_SELECTOR = {'Fluorescent Reporter Proteins': FLUORESCENT_REPORTER_OPTIONS,
                      'Open Yeast Collection': OPEN_YEAST_OPTIONS}
-
-
-def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str]:
-    """Find all SBOL2 GenBank-conversion files in a package directory and curate them using SYNBICT
-
-    :param package: path of package to search
-    :return: dictionary mapping paths of SBOL2 inputs to curated outputs
-    """
-
-    # import SBOL2 converted from GenBank
-    target_files = []
-    for file in itertools.chain(*(glob.glob(os.path.join(package, f'*{ext}'))
-                                for ext in scriptutils.GBCONV_FILE_TYPES)):
-        target_files.append(file)
-
-    # make curated SBOL2 versions of the SBOL2 GenBank-conversion file names
-    output_files = [os.path.splitext(file)[0].splitext(file)[0]+'.synbict.xml' for file in target_files]
-
-    mappings = {target_files[i] : output_files[i] for i in range(0, len(target_files))}
-
-    curation_args = curation_options + ['-t'] + target_files
-    curation_args = curation_args + ['-o'] + output_files
-
-    sequences_to_features.main(curation_args)
-
-    return mappings
 
 
 # find the repository for automatic git actions, if possible
@@ -71,7 +43,7 @@ for p in packages:
         print(f'Curating SBOL2 GenBank-conversion files for package {package_name}')
         try:
             # convert files
-            mappings = curate_package_sbol2_gbconv(p, curation_options)
+            mappings = scriptutils.curate_package_sbol2_gbconv(p, curation_options)
             # if there's a git repo, try to remove the old files
             if repo and len(mappings):
                 repo.index.add(mappings.keys())     # add, in case they weren't there before

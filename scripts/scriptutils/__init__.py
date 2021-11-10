@@ -5,3 +5,4 @@ from .package_specification import *
 from .conversions import *
 from .generate_markdown import *
 from .package_production import *
+from .curation import *

@@ -22,10 +22,6 @@ logging.warning('Conversion is deprecated: will shift to sbol-utilities in 1.0a1
 # Location: scripts/sbol
 SBOL_CONVERTER = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))), 'sbol')
 
-SYNBICT_NAMESPACE = 'http://synbict.org'
-
-GBCONV_FILE_TYPES = {'.gbconv.xml'}
-
 
 def convert_identities2to3(sbol3_data: str) -> str:
     """Convert SBOL2 identities into SBOL3 identities.
@@ -185,33 +181,6 @@ def convert_package_sbol2_files(package: str) -> dict[str, str]:
     return mappings
 
 
-def convert_package_genbank_to_sbol2(package: str, namespace: str) -> dict[str, str]:
-    """Find all GenBank files in a package directory and convert them to SBOL2
-
-    :param package: path of package to search
-    :return: dictionary mapping paths of GenBank inputs to SBOL2 outputs
-    """
-    mappings = {}
-
-    # import GenBank
-    for file in itertools.chain(*(glob.glob(os.path.join(package, f'*{ext}')) for ext in GENETIC_DESIGN_FILE_TYPES['GenBank'])):
-        print(f'Attempting to convert GenBank file {file} to SBOL2')
-        file2 = os.path.splitext(file)[0]+'.gbconv.xml'  # make a GenBank to SBOL2 version of the file name
-        doc2 = convert_from_genbank_to_sbol2(file, namespace)
-        # check if it's valid before writing
-        report = doc2.validate()
-        if report == 'Invalid.':
-            logging.warning('GenBank conversion failed: SBOL2 file has errors')
-            continue
-
-        print(f'Writing SBOL2 GenBank-conversion file to {file2}')
-        doc2.write(file2)
-        # record the conversion for later use
-        mappings[file] = file2
-
-    return mappings
-
-
 def convert3to2(doc3: sbol3.Document) -> sbol2.Document:
     """Convert an SBOL3 document to an equivalent SBOL2 document
 
@@ -307,20 +276,6 @@ def convert_from_fasta(path: str, namespace: str, identity_map: Dict[str, str] =
             doc.add(s)
             doc.add(sbol3.Component(identity, sbol3.SBO_DNA, name=r.name, description=r.description.strip(),
                                     sequences=[s.identity], namespace=namespace_to_use))
-    return doc
-
-
-# TODO: Figure out how to support multiple namespaces like we do for FASTA: currently, importing from multiple namespaces will not work correctly
-def convert_from_genbank_to_sbol2(path: str, namespace: str) -> sbol2.Document:
-    """Convert a GenBank document on disk into an SBOL2 document
-
-    :param path: path to read GenBank file from
-    :param namespace: URIs of Components will be set to {namespace}/{genbank_id}
-    :return: SBOL2 document containing converted materials
-    """
-    doc = sbol2.Document()
-    sbol2.setHomespace(namespace)
-    doc.importFromFormat(path)
     return doc
 
 
