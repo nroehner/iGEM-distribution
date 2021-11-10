@@ -27,7 +27,7 @@ def convert_package_genbank_to_sbol2(package: str, namespace: str) -> dict[str, 
     for file in itertools.chain(*(glob.glob(os.path.join(package, f'*{ext}')) for ext in GENETIC_DESIGN_FILE_TYPES['GenBank'])):
         print(f'Attempting to convert GenBank file {file} to SBOL2')
         file2 = os.path.splitext(file)[0]+'.gbconv.xml'  # make a GenBank to SBOL2 version of the file name
-        doc2 = convert3to2(convert_from_genbank(file, namespace))
+        doc2 = convert3to2(convert_from_genbank(file, namespace, True))
         # check if it's valid before writing
         report = doc2.validate()
         if report == 'Invalid.':
