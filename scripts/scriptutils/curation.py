@@ -6,7 +6,7 @@ import itertools
 import sequences_to_features
 
 from sbol_utilities.helper_functions import GENETIC_DESIGN_FILE_TYPES
-from sbol_utilities.conversions import convert_from_genbank, convert3to2
+from sbol_utilities.conversion import convert_from_genbank, convert3to2
 
 SYNBICT_NAMESPACE = 'http://synbict.org'
 
