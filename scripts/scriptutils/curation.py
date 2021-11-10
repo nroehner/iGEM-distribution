@@ -55,7 +55,8 @@ def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str
         target_files.append(file)
 
     # make curated SBOL2 versions of the SBOL2 GenBank-conversion file names
-    output_files = [os.path.splitext(file)[0].splitext(file)[0]+CURATED_FILE_TYPE for file in target_files]
+    gbconv_name = os.path.splitext(file)[0]
+    output_files = [os.path.splitext(gbconv_name)[0]+CURATED_FILE_TYPE for file in target_files]
 
     mappings = {target_files[i] : output_files[i] for i in range(0, len(target_files))}
 
