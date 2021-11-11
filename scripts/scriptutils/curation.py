@@ -26,7 +26,7 @@ def convert_package_genbank_to_sbol2(package: str, namespace: str) -> dict[str, 
     # import GenBank
     for file in itertools.chain(*(glob.glob(os.path.join(package, f'*{ext}')) for ext in GENETIC_DESIGN_FILE_TYPES['GenBank'])):
         print(f'Attempting to convert GenBank file {file} to SBOL2')
-        file2 = os.path.splitext(file)[0]+'.gbconv.xml'  # make a GenBank to SBOL2 version of the file name
+        file2 = os.path.splitext(file)[0]+GBCONV_FILE_TYPE  # make a GenBank to SBOL2 version of the file name
         doc2 = convert3to2(convert_from_genbank(file, namespace, True))
         # check if it's valid before writing
         report = doc2.validate()
@@ -60,6 +60,7 @@ def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str
 
     mappings = {target_files[i] : output_files[i] for i in range(0, len(target_files))}
 
+    curation_args = curation_options + ['-n', SYNBICT_NAMESPACE]
     curation_args = curation_options + ['-t'] + target_files
     curation_args = curation_args + ['-o'] + output_files
 
