@@ -61,7 +61,7 @@ def curate_package_sbol2_gbconv(package: str, curation_options) -> dict[str, str
     mappings = {target_files[i] : output_files[i] for i in range(0, len(target_files))}
 
     curation_args = curation_options + ['-n', SYNBICT_NAMESPACE]
-    curation_args = curation_options + ['-t'] + target_files
+    curation_args = curation_args + ['-t'] + target_files
     curation_args = curation_args + ['-o'] + output_files
 
     sequences_to_features.main(curation_args)
