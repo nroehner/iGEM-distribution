@@ -4,7 +4,7 @@ import git
 
 import scriptutils
 
-FLUORESCENT_REPORTER_OPTIONS = ['-m', '1' # Minimum target length
+FLUORESCENT_REPORTER_OPTIONS = ['-m', '1', # Minimum target length
                                 '-M', '10', # Minimum feature length
                                 '-U', 'https://synbiohub.org', # SynBioHub URL
                                 '-F', 'https://synbiohub.org/public/igem/cds_reporter/1', # Feature URL
@@ -12,7 +12,7 @@ FLUORESCENT_REPORTER_OPTIONS = ['-m', '1' # Minimum target length
                                 '-cm', # Complete matches allowed
                                 '-a'] # Merge compatible annotations
 
-OPEN_YEAST_OPTIONS = ['-m', '1'
+OPEN_YEAST_OPTIONS = ['-m', '1',
                       '-M', '10',
                       '-U', 'https://synbiohub.org',
                       '-F', 'https://synbiohub.org/public/igem_feature_libraries/igem_plasmid_vectors/1',
