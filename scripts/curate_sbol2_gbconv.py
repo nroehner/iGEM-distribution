@@ -15,7 +15,7 @@ FLUORESCENT_REPORTER_OPTIONS = ['-m', '1', # Minimum target length
 OPEN_YEAST_OPTIONS = ['-m', '1',
                       '-M', '10',
                       '-U', 'https://synbiohub.org',
-                      '-F', 'https://synbiohub.org/public/igem_feature_libraries/igem_plasmid_vectors/1',
+                      '-F', 'https://synbiohub.org/public/free_genes_feature_libraries/open_yeast/1',
                       '-ni',
                       '-a']
 
