@@ -1,0 +1,970 @@
+
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#end> "2001" .
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation0/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation0> <http://purl.org/dc/terms/title> "recombinant plasmid" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/genBankConversion#mol_type> "other DNA" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/genBankConversion#organism> "recombinant plasmid" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/genBankConversion#original_record> "pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#displayId> "annotation0" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation0/range> .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#name> "recombinant plasmid" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0002206> .
+<http://synbict.org/BBF10K_000068/annotation0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#end> "42" .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#start> "24" .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation1/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#end> "1981" .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#start> "1950" .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation10/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation10> <http://purl.org/dc/terms/title> "tonB terminator" .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sbols.org/genBankConversion#label> "tonB terminator" .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#displayId> "annotation10" .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation10/range> .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#name> "tonB terminator" .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000141> .
+<http://synbict.org/BBF10K_000068/annotation10> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#end> "2269" .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#start> "2033" .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation11/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation11> <http://purl.org/dc/terms/title> "His3 Promoter" .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sbols.org/genBankConversion#label> "His3 Promoter" .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sbols.org/genBankConversion#original_record> "part" .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#displayId> "annotation11" .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation11/range> .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#name> "His3 Promoter" .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000167> .
+<http://synbict.org/BBF10K_000068/annotation11> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#end> "2021" .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#start> "2002" .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation12/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation12> <http://purl.org/dc/terms/title> "FreeGenes dialout primer" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#0048BA" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#0048BA" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/genBankConversion#label> "FreeGenes dialout primer" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#displayId> "annotation12" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation12/range> .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#name> "FreeGenes dialout primer" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/BBF10K_000068/annotation12> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#end> "2306" .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#start> "2287" .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation13/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation13> <http://purl.org/dc/terms/title> "FreeGenes dialout primer" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#0048BA" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#0048BA" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/genBankConversion#label> "FreeGenes dialout primer" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#displayId> "annotation13" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation13/range> .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#name> "FreeGenes dialout primer" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/BBF10K_000068/annotation13> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#end> "2366" .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#start> "2307" .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation14/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation14> <http://purl.org/dc/terms/title> "FreeGenes barcode" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#FF7E00" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#FF7E00" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/genBankConversion#label> "FreeGenes barcode" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#displayId> "annotation14" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation14/range> .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#name> "FreeGenes barcode" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/BBF10K_000068/annotation14> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/genBankConversion#position> "position0" .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#displayId> "range0" .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#end> "2027" .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#start> "2022" .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation15/range0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/genBankConversion#position> "position1" .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#displayId> "range1" .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#end> "2032" .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#start> "2029" .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation15/range1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation15> <http://purl.org/dc/terms/title> "BsaI" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#00FF2C" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#00FF2C" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#featureType> "protein_bind" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#label> "BsaI" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#multiRangeType> "join" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#displayId> "annotation15" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation15/range0> .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation15/range1> .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#name> "BsaI" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000110> .
+<http://synbict.org/BBF10K_000068/annotation15> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/genBankConversion#position> "position1" .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#displayId> "range0" .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#end> "2273" .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#start> "2270" .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation16/range0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/genBankConversion#position> "position0" .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#displayId> "range1" .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#end> "2280" .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#start> "2275" .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation16/range1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation16> <http://purl.org/dc/terms/title> "BsaI" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#00FF2C" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#00FF2C" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#featureType> "protein_bind" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#label> "BsaI" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#multiRangeType> "join" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#displayId> "annotation16" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation16/range0> .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation16/range1> .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#name> "BsaI" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000110> .
+<http://synbict.org/BBF10K_000068/annotation16> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#end> "2345" .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#start> "2328" .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation17/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation17> <http://purl.org/dc/terms/title> "I-SceI" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#4F0080" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#4F0080" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#featureType> "protein_bind" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#label> "I-SceI" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#displayId> "annotation17" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation17/range> .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#name> "I-SceI" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000110> .
+<http://synbict.org/BBF10K_000068/annotation17> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation1> <http://purl.org/dc/terms/title> "T7 Reverse" .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sbols.org/genBankConversion#label> "T7 Reverse" .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#displayId> "annotation1" .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation1/range> .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#name> "T7 Reverse" .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<http://synbict.org/BBF10K_000068/annotation1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#end> "85" .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#start> "38" .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation2/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation2> <http://purl.org/dc/terms/title> "T7 terminator" .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sbols.org/genBankConversion#label> "T7 terminator" .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#displayId> "annotation2" .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation2/range> .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#name> "T7 terminator" .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000141> .
+<http://synbict.org/BBF10K_000068/annotation2> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#end> "106" .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#start> "86" .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation3/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation3> <http://purl.org/dc/terms/title> "M13 rev" .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sbols.org/genBankConversion#label> "M13 rev" .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#displayId> "annotation3" .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation3/range> .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#name> "M13 rev" .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<http://synbict.org/BBF10K_000068/annotation3> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#end> "121" .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#start> "107" .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation4/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation4> <http://purl.org/dc/terms/title> "AarI" .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sbols.org/genBankConversion#label> "AarI" .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#displayId> "annotation4" .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation4/range> .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#name> "AarI" .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/BBF10K_000068/annotation4> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#end> "172" .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#start> "122" .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation5/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation5> <http://purl.org/dc/terms/title> "spacer" .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sbols.org/genBankConversion#label> "spacer" .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#displayId> "annotation5" .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation5/range> .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#name> "spacer" .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/BBF10K_000068/annotation5> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#end> "761" .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#start> "173" .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation6/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation6> <http://purl.org/dc/terms/title> "ori" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/genBankConversion#direction> "LEFT" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/genBankConversion#label> "ori" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#displayId> "annotation6" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation6/range> .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#name> "ori" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000296> .
+<http://synbict.org/BBF10K_000068/annotation6> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#end> "1812" .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#start> "952" .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation7/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation7> <http://purl.org/dc/terms/title> "AmpR" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/genBankConversion#label> "AmpR" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/translation=MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW*" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/genBankConversion#original_record> "pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#displayId> "annotation7" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation7/range> .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#name> "AmpR" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000316> .
+<http://synbict.org/BBF10K_000068/annotation7> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#end> "1932" .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#start> "1918" .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation8/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation8> <http://purl.org/dc/terms/title> "AarI" .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sbols.org/genBankConversion#label> "AarI" .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#displayId> "annotation8" .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation8/range> .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#name> "AarI" .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/BBF10K_000068/annotation8> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#end> "1949" .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#start> "1933" .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation9/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/BBF10K_000068/annotation9> <http://purl.org/dc/terms/title> "M13 fwd" .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sbols.org/genBankConversion#label> "M13 fwd" .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#displayId> "annotation9" .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#hasLocation> <http://synbict.org/BBF10K_000068/annotation9/range> .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#name> "M13 fwd" .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<http://synbict.org/BBF10K_000068/annotation9> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068/annotation9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/BBF10K_000068/reference0> <http://www.ncbi.nlm.nih.gov/genbank#authors> "Keoni Gandall" .
+<http://synbict.org/BBF10K_000068/reference0> <http://www.ncbi.nlm.nih.gov/genbank#label> "1  (bases 1 to 2001)" .
+<http://synbict.org/BBF10K_000068/reference0> <http://www.ncbi.nlm.nih.gov/genbank#title> "Direct Submission" .
+<http://synbict.org/BBF10K_000068/reference0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ncbi.nlm.nih.gov/genbank#Reference> .
+<http://synbict.org/BBF10K_000068/reference1> <http://www.ncbi.nlm.nih.gov/genbank#authors> "Scott Pownall, Open Science Network" .
+<http://synbict.org/BBF10K_000068/reference1> <http://www.ncbi.nlm.nih.gov/genbank#journal> "https://biobricks.org/freegenes/" .
+<http://synbict.org/BBF10K_000068/reference1> <http://www.ncbi.nlm.nih.gov/genbank#label> "2  (bases 2002 to 2366)" .
+<http://synbict.org/BBF10K_000068/reference1> <http://www.ncbi.nlm.nih.gov/genbank#title> "Direct Submission" .
+<http://synbict.org/BBF10K_000068/reference1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ncbi.nlm.nih.gov/genbank#Reference> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#description> "Yeast promoter His3 in pOpen-v3." .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#displayId> "BBF10K_000068" .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation0> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation10> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation11> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation12> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation13> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation14> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation15> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation16> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation17> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation1> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation2> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation3> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation4> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation5> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation6> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation7> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation8> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/BBF10K_000068/annotation9> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation0> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation10> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation11> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation12> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation13> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation14> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation15> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation16> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation17> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation1> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation2> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation3> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation4> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation5> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation6> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation7> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation8> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasFeature> <http://synbict.org/synbict.org/BBF10K_000068/annotation9> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000804> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#type> <http://identifiers.org/so/SO:0000988> .
+<http://synbict.org/BBF10K_000068> <http://sbols.org/v3#type> <https://identifiers.org/SBO:0000251> .
+<http://synbict.org/BBF10K_000068> <http://sboltools.org/backport#sbol2type> <http://sbols.org/v2#ComponentDefinition> .
+<http://synbict.org/BBF10K_000068> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068> <http://sboltools.org/backport#sbol3namespace> <http://synbict.org> .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#date> "22-MAY-2018" .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#division> "UNK" .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#keywords> "BBFD_0017; Open Yeast Collection Part; OpenMTA; FreeGenes; Golden Gate Assembly." .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#locus> "BBF10K_000068" .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#molecule> "DNA" .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#organism> "recombinant plasmid ." .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#reference> <http://synbict.org/BBF10K_000068/reference0> .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#reference> <http://synbict.org/BBF10K_000068/reference1> .
+<http://synbict.org/BBF10K_000068> <http://www.ncbi.nlm.nih.gov/genbank#source> "synthetic DNA construct" .
+<http://synbict.org/BBF10K_000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Component> .
+<http://synbict.org/BBF10K_000068> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068> .
+<http://synbict.org/BBF10K_000068_seq> <http://sbols.org/v3#displayId> "BBF10K_000068_seq" .
+<http://synbict.org/BBF10K_000068_seq> <http://sbols.org/v3#elements> "cgctgaggtgtcaatcgtcggagccgctgagcaataactagcataaccccttggggcctctaaacgggtcttgaggggttttttgcatggtcatagctgtttcctgagagcttggcaggtgatgacacacattaacaaatttcgtgaggagtctccagaagaatgccattaatttccataggctccgcccccctgacgagcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagataccaggcgtttccccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttaccggatacctgtccgcctttctcccttcgggaagcgtggcgctttctcatagctcacgctgtaggtatctcagttcggtgtaggtcgttcgctccaagctgggctgtgtgcacgaaccccccgttcagcccgaccgctgcgccttatccggtaactatcgtcttgagtccaacccggtaagacacgacttatcgccactggcagcagccactggtaacaggattagcagagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttaccttcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaaggcctactattagcaacaacgatcctttgatcttttctacggggtctgacgctcagtggaacgaaaactcacgttaagggattttggtcatgagattatcaaaaaggatcttcacctagatccttttaaattaaaaatgaagttttaaatcaatctaaagtatatatgagtaaacttggtctgacagttaccaatgcttaatcagtgaggcacctatctcagcgatctgtctatttcgttcatccatagttgcctgactccccgtcgtgtagataactacgatacgggagggcttaccatctggccccagtgctgcaatgataccgcgagaaccacgctcaccggctccagatttatcagcaataaaccagccagccggaagggccgagcgcagaagtggtcctgcaactttatccgcctccatccagtctattaattgttgccgggaagctagagtaagtagttcgccagttaatagtttgcgcaacgttgttgccattgctacaggcatcgtggtgtcacgctcgtcgtttggtatggcttcattcagctccggttcccaacgatcaaggcgagttacatgatcccccatgttgtgcaaaaaagcggttagctccttcggtcctccgatcgttgtcagaagtaagttggccgcagtgttatcactcatggttatggcagcactgcataattctcttactgtcatgccatccgtaagatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcggcgaccgagttgctcttgcccggcgtcaatacgggataataccgcgccacatagcagaactttaaaagtgctcatcattggaaaacgttcttcggggcgaaaactctcaaggatcttaccgctgttgagatccagttcgatgtaacccactcgtgcacccaactgatcttcagcatcttttactttcaccagcgtttctgggtgagcaaaaacaggaaggcaaaatgccgcaaaaaagggaataagggcgacacggaaatgttgaatactcatactcttcctttttcaatattattgaagcatttatcagggttattgtctcatgagcggatacatatttgaatgtatttagaaaaataaacaaataggggttccgcgcacctgcaccagtcagtaaaacgacggccagtagtcaaaagcctccgaccggaggcttttgacttggttcaggtggagtgggagaacgatgatgctcactctcgggtctctggagaacacagtcctttcccgcaattttctttttctattactcttggcctcctctagtacactctatatttttttatgcctcggtaatgattttcatttttatttttccacctagcggatgactcttattttttcttagcgattggcattatcacataatgaattatacattatataaagtaatgtgatttcttcgaagaatatactaaaaaatgagcaggcaagataaacgaaggcaaagaatgtgagaccctcgagacgatggggacatagaacactcccactgagatggggtggcttagggataacagggtaattctgcattgccaagggagata" .
+<http://synbict.org/BBF10K_000068_seq> <http://sbols.org/v3#encoding> <https://identifiers.org/edam:format_1207> .
+<http://synbict.org/BBF10K_000068_seq> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/BBF10K_000068_seq> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/BBF10K_000068_seq> <http://sboltools.org/backport#sbol3namespace> <http://synbict.org> .
+<http://synbict.org/BBF10K_000068_seq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Sequence> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://sbols.org/v3#displayId> "BBF10K_003498_backbone_anno_1_loc" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://sbols.org/v3#end> "2001" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://sbols.org/v3#displayId> "BBF10K_003498_backbone_comp_1" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_anno_1/BBF10K_003498_backbone_anno_1_loc> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://sbols.org/v3#instanceOf> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://sboltools.org/backport#sbol2type> <http://sbols.org/v2#Component> .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://sboltools.org/backport#sequenceAnnotationDisplayId> "BBF10K_003498_backbone_anno_1" .
+<http://synbict.org/synbict.org/BBF10K_000068/BBF10K_003498_backbone_comp_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SubComponent> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#end> "2001" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation0/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://purl.org/dc/terms/title> "recombinant plasmid" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/genBankConversion#mol_type> "other DNA" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/genBankConversion#organism> "recombinant plasmid" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/genBankConversion#original_record> "pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#displayId> "annotation0" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation0/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#name> "recombinant plasmid" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0002206> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation0> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation0> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#end> "42" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://sbols.org/v3#start> "24" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation1/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#end> "1981" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://sbols.org/v3#start> "1950" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation10/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://purl.org/dc/terms/title> "tonB terminator" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sbols.org/genBankConversion#label> "tonB terminator" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#displayId> "annotation10" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation10/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#name> "tonB terminator" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000141> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation10> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation10> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#end> "2269" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://sbols.org/v3#start> "2033" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation11/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://purl.org/dc/terms/title> "His3 Promoter" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sbols.org/genBankConversion#label> "His3 Promoter" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sbols.org/genBankConversion#original_record> "part" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#displayId> "annotation11" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation11/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#name> "His3 Promoter" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000167> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation11> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation11> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#end> "2021" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://sbols.org/v3#start> "2002" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation12/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://purl.org/dc/terms/title> "FreeGenes dialout primer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#0048BA" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#0048BA" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/genBankConversion#label> "FreeGenes dialout primer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#displayId> "annotation12" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation12/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#name> "FreeGenes dialout primer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation12> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation12> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#end> "2306" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://sbols.org/v3#start> "2287" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation13/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://purl.org/dc/terms/title> "FreeGenes dialout primer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#0048BA" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#0048BA" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/genBankConversion#label> "FreeGenes dialout primer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#displayId> "annotation13" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation13/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#name> "FreeGenes dialout primer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation13> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation13> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#end> "2366" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://sbols.org/v3#start> "2307" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation14/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://purl.org/dc/terms/title> "FreeGenes barcode" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#FF7E00" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#FF7E00" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/genBankConversion#label> "FreeGenes barcode" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#displayId> "annotation14" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation14/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#name> "FreeGenes barcode" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation14> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation14> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/genBankConversion#position> "position0" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#displayId> "range0" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#end> "2027" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sbols.org/v3#start> "2022" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation15/range0> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/genBankConversion#position> "position1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#displayId> "range1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#end> "2032" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sbols.org/v3#start> "2029" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation15/range1> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://purl.org/dc/terms/title> "BsaI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#00FF2C" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#00FF2C" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#featureType> "protein_bind" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#label> "BsaI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/genBankConversion#multiRangeType> "join" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#displayId> "annotation15" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation15/range0> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation15/range1> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#name> "BsaI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000110> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation15> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation15> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/genBankConversion#position> "position1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#displayId> "range0" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#end> "2273" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sbols.org/v3#start> "2270" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation16/range0> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/genBankConversion#position> "position0" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#displayId> "range1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#end> "2280" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sbols.org/v3#start> "2275" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation16/range1> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://purl.org/dc/terms/title> "BsaI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#00FF2C" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#00FF2C" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#featureType> "protein_bind" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#label> "BsaI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/genBankConversion#multiRangeType> "join" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#displayId> "annotation16" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation16/range0> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation16/range1> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#name> "BsaI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000110> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation16> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation16> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#end> "2345" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://sbols.org/v3#start> "2328" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation17/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://purl.org/dc/terms/title> "I-SceI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#4F0080" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#4F0080" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#featureType> "protein_bind" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/genBankConversion#label> "I-SceI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#displayId> "annotation17" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation17/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#name> "I-SceI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000110> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation17> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation17> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://purl.org/dc/terms/title> "T7 Reverse" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sbols.org/genBankConversion#label> "T7 Reverse" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#displayId> "annotation1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation1/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#name> "T7 Reverse" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation1> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation1> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#end> "85" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://sbols.org/v3#start> "38" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation2/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://purl.org/dc/terms/title> "T7 terminator" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sbols.org/genBankConversion#label> "T7 terminator" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#displayId> "annotation2" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation2/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#name> "T7 terminator" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000141> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation2> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation2> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#end> "106" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://sbols.org/v3#start> "86" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation3/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://purl.org/dc/terms/title> "M13 rev" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sbols.org/genBankConversion#label> "M13 rev" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#displayId> "annotation3" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation3/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#name> "M13 rev" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation3> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation3> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#end> "121" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://sbols.org/v3#start> "107" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation4/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://purl.org/dc/terms/title> "AarI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sbols.org/genBankConversion#label> "AarI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#displayId> "annotation4" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation4/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#name> "AarI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation4> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation4> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#end> "172" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://sbols.org/v3#start> "122" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation5/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://purl.org/dc/terms/title> "spacer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sbols.org/genBankConversion#label> "spacer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#displayId> "annotation5" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation5/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#name> "spacer" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation5> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation5> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#end> "761" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://sbols.org/v3#start> "173" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation6/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://purl.org/dc/terms/title> "ori" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/genBankConversion#direction> "LEFT" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/genBankConversion#label> "ori" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#displayId> "annotation6" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation6/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#name> "ori" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000296> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation6> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation6> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#end> "1812" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://sbols.org/v3#start> "952" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation7/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://purl.org/dc/terms/title> "AmpR" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/genBankConversion#label> "AmpR" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/translation=MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW*" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/genBankConversion#original_record> "pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#displayId> "annotation7" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation7/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#name> "AmpR" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000316> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation7> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation7> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#end> "1932" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://sbols.org/v3#start> "1918" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation8/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://purl.org/dc/terms/title> "AarI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sbols.org/genBankConversion#label> "AarI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#displayId> "annotation8" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation8/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#name> "AarI" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0001411> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation8> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation8> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#end> "1949" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/BBF10K_000068_seq> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://sbols.org/v3#start> "1933" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation9/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://purl.org/dc/terms/title> "M13 fwd" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sbols.org/genBankConversion#label> "M13 fwd" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sbols.org/genBankConversion#note> "/ApEinfo_fwdcolor/original_record=pOpen_v3.1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#displayId> "annotation9" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#hasLocation> <http://synbict.org/synbict.org/BBF10K_000068/annotation9/range> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#name> "M13 fwd" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://sboltools.org/backport#sbol2version> "1" .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/synbict.org/BBF10K_000068/annotation9> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://synbict.org/BBF10K_000068/annotation9> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://sbols.org/v3#end> "2001" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://sbols.org/v3#start> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://purl.org/dc/terms/title> "synthetic DNA construct" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sbols.org/genBankConversion#mol_type> "other DNA" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sbols.org/genBankConversion#organism> "synthetic DNA construct" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sbols.org/v3#displayId> "annotation0" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sbols.org/v3#name> "synthetic DNA construct" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0002206> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://sbols.org/v3#end> "85" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://sbols.org/v3#start> "38" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://purl.org/dc/terms/title> "T7 terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sbols.org/genBankConversion#label> "T7 terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sbols.org/genBankConversion#note> "transcription terminator for bacteriophage T7 RNA polymerase" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sbols.org/v3#displayId> "annotation1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sbols.org/v3#name> "T7 terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000141> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://sbols.org/v3#end> "106" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://sbols.org/v3#start> "90" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://purl.org/dc/terms/title> "M13 rev" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sbols.org/genBankConversion#label> "M13 rev" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sbols.org/genBankConversion#note> "common sequencing primer, one of multiple similar variants" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sbols.org/v3#displayId> "annotation2" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sbols.org/v3#name> "M13 rev" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://sbols.org/v3#end> "761" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://sbols.org/v3#start> "173" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://purl.org/dc/terms/title> "ori" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/genBankConversion#direction> "LEFT" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/genBankConversion#label> "ori" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/genBankConversion#note> "high-copy-number ColE1/pMB1/pBR322/pUC origin of replication" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/v3#displayId> "annotation3" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/v3#name> "ori" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000296> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://sbols.org/v3#end> "1812" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://sbols.org/v3#start> "952" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://purl.org/dc/terms/title> "AmpR" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/genBankConversion#codon_start> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/genBankConversion#gene> "bla" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/genBankConversion#label> "AmpR" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/genBankConversion#note> "confers resistance to ampicillin, carbenicillin, and related antibiotics" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/genBankConversion#product> "beta-lactamase" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/genBankConversion#translation> "MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/v3#displayId> "annotation4" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/v3#name> "AmpR" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000316> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://sbols.org/v3#end> "1917" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#reverseComplement> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://sbols.org/v3#start> "1813" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://purl.org/dc/terms/title> "AmpR promoter" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sbols.org/genBankConversion#gene> "bla" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sbols.org/genBankConversion#label> "AmpR promoter" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sbols.org/v3#displayId> "annotation5" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sbols.org/v3#name> "AmpR promoter" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000167> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://sbols.org/v3#end> "1949" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://sbols.org/v3#start> "1933" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://purl.org/dc/terms/title> "M13 fwd" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sbols.org/genBankConversion#label> "M13 fwd" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sbols.org/genBankConversion#note> "common sequencing primer, one of multiple similar variants" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sbols.org/v3#displayId> "annotation6" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sbols.org/v3#name> "M13 fwd" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0005850> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://sbols.org/v3#displayId> "range" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://sbols.org/v3#end> "1981" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://sbols.org/v3#start> "1950" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://purl.org/dc/terms/title> "tonB terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sbols.org/genBankConversion#label> "tonB terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sbols.org/genBankConversion#note> "bidirectional E. coli tonB-P14 transcription terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sbols.org/v3#displayId> "annotation7" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sbols.org/v3#hasLocation> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7/range> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sbols.org/v3#name> "tonB terminator" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000141> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#description> "synthetic DNA" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#displayId> "BBF10K_003498_backbone" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation0> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation1> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation2> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation3> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation4> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation5> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation6> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasFeature> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone/annotation7> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasNamespace> <https://synbiohub.org> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#hasSequence> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000804> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#type> <http://identifiers.org/so/SO:0000987> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sbols.org/v3#type> <https://identifiers.org/SBO:0000251> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sboltools.org/backport#sbol2type> <http://sbols.org/v2#ComponentDefinition> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.ncbi.nlm.nih.gov/genbank#date> "09-JAN-2022" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.ncbi.nlm.nih.gov/genbank#division> "SYN" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.ncbi.nlm.nih.gov/genbank#locus> "BBF10K_003498_backbone" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.ncbi.nlm.nih.gov/genbank#molecule> "ds-DNA" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.ncbi.nlm.nih.gov/genbank#organism> "synthetic DNA construct" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.ncbi.nlm.nih.gov/genbank#source> "synthetic DNA construct" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Component> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://sbols.org/v3#displayId> "BBF10K_003498_backbone_seq" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://sbols.org/v3#elements> "cgctgaggtgtcaatcgtcggagccgctgagcaataactagcataaccccttggggcctctaaacgggtcttgaggggttttttgcatggtcatagctgtttcctgagagcttggcaggtgatgacacacattaacaaatttcgtgaggagtctccagaagaatgccattaatttccataggctccgcccccctgacgagcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagataccaggcgtttccccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttaccggatacctgtccgcctttctcccttcgggaagcgtggcgctttctcatagctcacgctgtaggtatctcagttcggtgtaggtcgttcgctccaagctgggctgtgtgcacgaaccccccgttcagcccgaccgctgcgccttatccggtaactatcgtcttgagtccaacccggtaagacacgacttatcgccactggcagcagccactggtaacaggattagcagagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttaccttcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaaggcctactattagcaacaacgatcctttgatcttttctacggggtctgacgctcagtggaacgaaaactcacgttaagggattttggtcatgagattatcaaaaaggatcttcacctagatccttttaaattaaaaatgaagttttaaatcaatctaaagtatatatgagtaaacttggtctgacagttaccaatgcttaatcagtgaggcacctatctcagcgatctgtctatttcgttcatccatagttgcctgactccccgtcgtgtagataactacgatacgggagggcttaccatctggccccagtgctgcaatgataccgcgagaaccacgctcaccggctccagatttatcagcaataaaccagccagccggaagggccgagcgcagaagtggtcctgcaactttatccgcctccatccagtctattaattgttgccgggaagctagagtaagtagttcgccagttaatagtttgcgcaacgttgttgccattgctacaggcatcgtggtgtcacgctcgtcgtttggtatggcttcattcagctccggttcccaacgatcaaggcgagttacatgatcccccatgttgtgcaaaaaagcggttagctccttcggtcctccgatcgttgtcagaagtaagttggccgcagtgttatcactcatggttatggcagcactgcataattctcttactgtcatgccatccgtaagatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcggcgaccgagttgctcttgcccggcgtcaatacgggataataccgcgccacatagcagaactttaaaagtgctcatcattggaaaacgttcttcggggcgaaaactctcaaggatcttaccgctgttgagatccagttcgatgtaacccactcgtgcacccaactgatcttcagcatcttttactttcaccagcgtttctgggtgagcaaaaacaggaaggcaaaatgccgcaaaaaagggaataagggcgacacggaaatgttgaatactcatactcttcctttttcaatattattgaagcatttatcagggttattgtctcatgagcggatacatatttgaatgtatttagaaaaataaacaaataggggttccgcgcacctgcaccagtcagtaaaacgacggccagtagtcaaaagcctccgaccggaggcttttgacttggttcaggtggagtgggag" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://sbols.org/v3#encoding> <https://identifiers.org/edam:format_1207> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://sbols.org/v3#hasNamespace> <https://synbiohub.org> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://sboltools.org/backport#sbol2version> "1" .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#ownedBy> <https://synbiohub.org/user/nroehner> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://wiki.synbiohub.org/wiki/Terms/synbiohub#topLevel> <https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> .
+<https://synbiohub.org/public/free_genes_feature_libraries/BBF10K_003498_backbone_seq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Sequence> .

@@ -1,0 +1,39 @@
+
+<http://synbict.org/_62988/annotation0/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/_62988/annotation0/range> <http://sbols.org/v3#end> "96" .
+<http://synbict.org/_62988/annotation0/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/_62988_seq> .
+<http://synbict.org/_62988/annotation0/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/_62988/annotation0/range> <http://sbols.org/v3#start> "21" .
+<http://synbict.org/_62988/annotation0/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/_62988/annotation0> <http://purl.org/dc/terms/title> "gRNA scaffold" .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#f8d3a9" .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#f8d3a9" .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/genBankConversion#label> "gRNA scaffold" .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/v3#displayId> "annotation0" .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/v3#hasLocation> <http://synbict.org/_62988/annotation0/range> .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/v3#name> "gRNA scaffold" .
+<http://synbict.org/_62988/annotation0> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000673> .
+<http://synbict.org/_62988/annotation0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/_62988> <http://sbols.org/v3#description> "." .
+<http://synbict.org/_62988> <http://sbols.org/v3#displayId> "_62988" .
+<http://synbict.org/_62988> <http://sbols.org/v3#hasFeature> <http://synbict.org/_62988/annotation0> .
+<http://synbict.org/_62988> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/_62988> <http://sbols.org/v3#hasSequence> <http://synbict.org/_62988_seq> .
+<http://synbict.org/_62988> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000673> .
+<http://synbict.org/_62988> <http://sbols.org/v3#type> <http://identifiers.org/so/SO:0000988> .
+<http://synbict.org/_62988> <http://sbols.org/v3#type> <https://identifiers.org/SBO:0000251> .
+<http://synbict.org/_62988> <http://sboltools.org/backport#sbol2type> <http://sbols.org/v2#ComponentDefinition> .
+<http://synbict.org/_62988> <http://sboltools.org/backport#sbol3namespace> <http://synbict.org> .
+<http://synbict.org/_62988> <http://www.ncbi.nlm.nih.gov/genbank#date> "24-SEP-2021" .
+<http://synbict.org/_62988> <http://www.ncbi.nlm.nih.gov/genbank#keywords> "\"accession:addgene_62988_190542\"" .
+<http://synbict.org/_62988> <http://www.ncbi.nlm.nih.gov/genbank#locus> "62988" .
+<http://synbict.org/_62988> <http://www.ncbi.nlm.nih.gov/genbank#molecule> "ds-DNA" .
+<http://synbict.org/_62988> <http://www.ncbi.nlm.nih.gov/genbank#organism> "synthetic DNA construct" .
+<http://synbict.org/_62988> <http://www.ncbi.nlm.nih.gov/genbank#source> "synthetic DNA construct" .
+<http://synbict.org/_62988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Component> .
+<http://synbict.org/_62988_seq> <http://sbols.org/v3#displayId> "_62988_seq" .
+<http://synbict.org/_62988_seq> <http://sbols.org/v3#elements> "NNNNNNNNNNNNNNNNNNNNgttttagagctagaaatagcaagttaaaataaggctagtccgttatcaacttgaaaaagtggcaccgagtcggtgc" .
+<http://synbict.org/_62988_seq> <http://sbols.org/v3#encoding> <https://identifiers.org/edam:format_1207> .
+<http://synbict.org/_62988_seq> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/_62988_seq> <http://sboltools.org/backport#sbol3namespace> <http://synbict.org> .
+<http://synbict.org/_62988_seq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Sequence> .

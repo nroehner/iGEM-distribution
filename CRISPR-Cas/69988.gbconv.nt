@@ -1,0 +1,53 @@
+
+<http://synbict.org/_69988/annotation0/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/_69988/annotation0/range> <http://sbols.org/v3#end> "3684" .
+<http://synbict.org/_69988/annotation0/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/_69988_seq> .
+<http://synbict.org/_69988/annotation0/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/_69988/annotation0/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/_69988/annotation0/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/_69988/annotation0> <http://purl.org/dc/terms/title> "LbCpf1" .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/genBankConversion#ApEinfo_fwdcolor> "#75c6a9" .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/genBankConversion#ApEinfo_revcolor> "#75c6a9" .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/genBankConversion#label> "LbCpf1" .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/v3#displayId> "annotation0" .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/v3#hasLocation> <http://synbict.org/_69988/annotation0/range> .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/v3#name> "LbCpf1" .
+<http://synbict.org/_69988/annotation0> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000316> .
+<http://synbict.org/_69988/annotation0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/_69988/annotation1/range> <http://sbols.org/v3#displayId> "range" .
+<http://synbict.org/_69988/annotation1/range> <http://sbols.org/v3#end> "3684" .
+<http://synbict.org/_69988/annotation1/range> <http://sbols.org/v3#hasSequence> <http://synbict.org/_69988_seq> .
+<http://synbict.org/_69988/annotation1/range> <http://sbols.org/v3#orientation> <http://sbols.org/v3#inline> .
+<http://synbict.org/_69988/annotation1/range> <http://sbols.org/v3#start> "1" .
+<http://synbict.org/_69988/annotation1/range> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Range> .
+<http://synbict.org/_69988/annotation1> <http://purl.org/dc/terms/title> "Translation 1-3684" .
+<http://synbict.org/_69988/annotation1> <http://sbols.org/genBankConversion#label> "Translation 1-3684" .
+<http://synbict.org/_69988/annotation1> <http://sbols.org/v3#displayId> "annotation1" .
+<http://synbict.org/_69988/annotation1> <http://sbols.org/v3#hasLocation> <http://synbict.org/_69988/annotation1/range> .
+<http://synbict.org/_69988/annotation1> <http://sbols.org/v3#name> "Translation 1-3684" .
+<http://synbict.org/_69988/annotation1> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000147> .
+<http://synbict.org/_69988/annotation1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#SequenceFeature> .
+<http://synbict.org/_69988> <http://sbols.org/v3#description> "." .
+<http://synbict.org/_69988> <http://sbols.org/v3#displayId> "_69988" .
+<http://synbict.org/_69988> <http://sbols.org/v3#hasFeature> <http://synbict.org/_69988/annotation0> .
+<http://synbict.org/_69988> <http://sbols.org/v3#hasFeature> <http://synbict.org/_69988/annotation1> .
+<http://synbict.org/_69988> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/_69988> <http://sbols.org/v3#hasSequence> <http://synbict.org/_69988_seq> .
+<http://synbict.org/_69988> <http://sbols.org/v3#role> <http://identifiers.org/so/SO:0000804> .
+<http://synbict.org/_69988> <http://sbols.org/v3#type> <http://identifiers.org/so/SO:0000988> .
+<http://synbict.org/_69988> <http://sbols.org/v3#type> <https://identifiers.org/SBO:0000251> .
+<http://synbict.org/_69988> <http://sboltools.org/backport#sbol2type> <http://sbols.org/v2#ComponentDefinition> .
+<http://synbict.org/_69988> <http://sboltools.org/backport#sbol3namespace> <http://synbict.org> .
+<http://synbict.org/_69988> <http://www.ncbi.nlm.nih.gov/genbank#date> "24-SEP-2021" .
+<http://synbict.org/_69988> <http://www.ncbi.nlm.nih.gov/genbank#keywords> "\"accession:addgene_69988_124373\"" .
+<http://synbict.org/_69988> <http://www.ncbi.nlm.nih.gov/genbank#locus> "69988" .
+<http://synbict.org/_69988> <http://www.ncbi.nlm.nih.gov/genbank#molecule> "ds-DNA" .
+<http://synbict.org/_69988> <http://www.ncbi.nlm.nih.gov/genbank#organism> "synthetic DNA construct" .
+<http://synbict.org/_69988> <http://www.ncbi.nlm.nih.gov/genbank#source> "synthetic DNA construct" .
+<http://synbict.org/_69988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Component> .
+<http://synbict.org/_69988_seq> <http://sbols.org/v3#displayId> "_69988_seq" .
+<http://synbict.org/_69988_seq> <http://sbols.org/v3#elements> "atgagcaagctggagaagtttacaaactgctactccctgtctaagaccctgaggttcaaggccatccctgtgggcaagacccaggagaacatcgacaataagcggctgctggtggaggacgagaagagagccgaggattataagggcgtgaagaagctgctggatcgctactatctgtcttttatcaacgacgtgctgcacagcatcaagctgaagaatctgaacaattacatcagcctgttccggaagaaaaccagaaccgagaaggagaataaggagctggagaacctggagatcaatctgcggaaggagatcgccaaggccttcaagggcaacgagggctacaagtccctgtttaagaaggatatcatcgagacaatcctgccagagttcctggacgataaggacgagatcgccctggtgaacagcttcaatggctttaccacagccttcaccggcttctttgataacagagagaatatgttttccgaggaggccaagagcacatccatcgccttcaggtgtatcaacgagaatctgacccgctacatctctaatatggacatcttcgagaaggtggacgccatctttgataagcacgaggtgcaggagatcaaggagaagatcctgaacagcgactatgatgtggaggatttctttgagggcgagttctttaactttgtgctgacacaggagggcatcgacgtgtataacgccatcatcggcggcttcgtgaccgagagcggcgagaagatcaagggcctgaacgagtacatcaacctgtataatcagaaaaccaagcagaagctgcctaagtttaagccactgtataagcaggtgctgagcgatcgggagtctctgagcttctacggcgagggctatacatccgatgaggaggtgctggaggtgtttagaaacaccctgaacaagaacagcgagatcttcagctccatcaagaagctggagaagctgttcaagaattttgacgagtactctagcgccggcatctttgtgaagaacggccccgccatcagcacaatctccaaggatatcttcggcgagtggaacgtgatccgggacaagtggaatgccgagtatgacgatatccacctgaagaagaaggccgtggtgaccgagaagtacgaggacgatcggagaaagtccttcaagaagatcggctccttttctctggagcagctgcaggagtacgccgacgccgatctgtctgtggtggagaagctgaaggagatcatcatccagaaggtggatgagatctacaaggtgtatggctcctctgagaagctgttcgacgccgattttgtgctggagaagagcctgaagaagaacgacgccgtggtggccatcatgaaggacctgctggattctgtgaagagcttcgagaattacatcaaggccttctttggcgagggcaaggagacaaacagggacgagtccttctatggcgattttgtgctggcctacgacatcctgctgaaggtggaccacatctacgatgccatccgcaattatgtgacccagaagccctactctaaggataagttcaagctgtattttcagaaccctcagttcatgggcggctgggacaaggataaggagacagactatcgggccaccatcctgagatacggctccaagtactatctggccatcatggataagaagtacgccaagtgcctgcagaagatcgacaaggacgatgtgaacggcaattacgagaagatcaactataagctgctgcccggccctaataagatgctgccaaaggtgttcttttctaagaagtggatggcctactataaccccagcgaggacatccagaagatctacaagaatggcacattcaagaagggcgatatgtttaacctgaatgactgtcacaagctgatcgacttctttaaggatagcatctcccggtatccaaagtggtccaatgcctacgatttcaacttttctgagacagagaagtataaggacatcgccggcttttacagagaggtggaggagcagggctataaggtgagcttcgagtctgccagcaagaaggaggtggataagctggtggaggagggcaagctgtatatgttccagatctataacaaggacttttccgataagtctcacggcacacccaatctgcacaccatgtacttcaagctgctgtttgacgagaacaatcacggacagatcaggctgagcggaggagcagagctgttcatgaggcgcgcctccctgaagaaggaggagctggtggtgcacccagccaactcccctatcgccaacaagaatccagataatcccaagaaaaccacaaccctgtcctacgacgtgtataaggataagaggttttctgaggaccagtacgagctgcacatcccaatcgccatcaataagtgccccaagaacatcttcaagatcaatacagaggtgcgcgtgctgctgaagcacgacgataacccctatgtgatcggcatcgataggggcgagcgcaatctgctgtatatcgtggtggtggacggcaagggcaacatcgtggagcagtattccctgaacgagatcatcaacaacttcaacggcatcaggatcaagacagattaccactctctgctggacaagaaggagaaggagaggttcgaggcccgccagaactggacctccatcgagaatatcaaggagctgaaggccggctatatctctcaggtggtgcacaagatctgcgagctggtggagaagtacgatgccgtgatcgccctggaggacctgaactctggctttaagaatagccgcgtgaaggtggagaagcaggtgtatcagaagttcgagaagatgctgatcgataagctgaactacatggtggacaagaagtctaatccttgtgcaacaggcggcgccctgaagggctatcagatcaccaataagttcgagagctttaagtccatgtctacccagaacggcttcatcttttacatccctgcctggctgacatccaagatcgatccatctaccggctttgtgaacctgctgaaaaccaagtataccagcatcgccgattccaagaagttcatcagctcctttgacaggatcatgtacgtgcccgaggaggatctgttcgagtttgccctggactataagaacttctctcgcacagacgccgattacatcaagaagtggaagctgtactcctacggcaaccggatcagaatcttccggaatcctaagaagaacaacgtgttcgactgggaggaggtgtgcctgaccagcgcctataaggagctgttcaacaagtacggcatcaattatcagcagggcgatatcagagccctgctgtgcgagcagtccgacaaggccttctactctagctttatggccctgatgagcctgatgctgcagatgcggaacagcatcacaggccgcaccgacgtggattttctgatcagccctgtgaagaactccgacggcatcttctacgatagccggaactatgaggcccaggagaatgccatcctgccaaagaacgccgacgccaatggcgcctataacatcgccagaaaggtgctgtgggccatcggccagttcaagaaggccgaggacgagaagctggataaggtgaagatcgccatctctaacaaggagtggctggagtacgcccagaccagcgtgaagcactaa" .
+<http://synbict.org/_69988_seq> <http://sbols.org/v3#encoding> <https://identifiers.org/edam:format_1207> .
+<http://synbict.org/_69988_seq> <http://sbols.org/v3#hasNamespace> <http://synbict.org> .
+<http://synbict.org/_69988_seq> <http://sboltools.org/backport#sbol3namespace> <http://synbict.org> .
+<http://synbict.org/_69988_seq> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://sbols.org/v3#Sequence> .
