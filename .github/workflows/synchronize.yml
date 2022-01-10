@@ -216,7 +216,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add *.curated.xml
+          git add *.gbconv.xml
+          git add *.synbict.xml
           git diff-index --quiet HEAD . || git commit -m "Curate GenBank"
 
       - name: Push changes
