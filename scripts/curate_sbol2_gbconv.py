@@ -45,9 +45,9 @@ for p in packages:
             # convert files
             mappings = scriptutils.curate_package_sbol2_gbconv(p, curation_options)
             # if there's a git repo, try to remove the old files
-            if repo and len(mappings):
-                repo.index.add(mappings.keys())     # add, in case they weren't there before
-                repo.index.remove(mappings.keys(), working_tree=True, f=True)  # then remove
+            # if repo and len(mappings):
+                # repo.index.add(mappings.keys())     # add, in case they weren't there before
+                # repo.index.remove(mappings.keys(), working_tree=True, f=True)  # then remove
 
         except (OSError, ValueError) as e:
             print(f'Could not curate SBOL2 GenBank-conversion files for package {package_name}: {e}')

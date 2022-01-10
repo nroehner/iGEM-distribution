@@ -17,11 +17,7 @@ for p in packages:
     print(f'Converting GenBank to SBOL2 files for package {os.path.basename(p)}')
     try:
         # convert files
-        mappings = scriptutils.convert_package_genbank_to_sbol2(p, scriptutils.SYNBICT_NAMESPACE)
-        # if there's a git repo, try to remove the old files
-        if repo and len(mappings):
-            repo.index.add(mappings.keys())     # add, in case they weren't there before
-            repo.index.remove(mappings.keys(), working_tree=True, f=True)  # then remove
+        scriptutils.convert_package_genbank_to_sbol2(p, scriptutils.SYNBICT_NAMESPACE)
 
     except (OSError, ValueError) as e:
         print(f'Could not convert GenBank files for package {os.path.basename(p)}: {e}')
