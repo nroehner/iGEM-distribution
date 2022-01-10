@@ -1,0 +1,458 @@
+<rdf:RDF xmlns:brick="https://brickschema.org/schema/Brick#" xmlns:csvw="http://www.w3.org/ns/csvw#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcam="http://purl.org/dc/dcam/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:odrl="http://www.w3.org/ns/odrl/2/" xmlns:org="http://www.w3.org/ns/org#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:prof="http://www.w3.org/ns/dx/prof/" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:qb="http://purl.org/linked-data/cube#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="https://schema.org/" xmlns:sh="http://www.w3.org/ns/shacl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:sosa="http://www.w3.org/ns/sosa/" xmlns:ssn="http://www.w3.org/ns/ssn/" xmlns:time="http://www.w3.org/2006/time#" xmlns:vann="http://purl.org/vocab/vann/" xmlns:void="http://rdfs.org/ns/void#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:backport="http://sboltools.org/backport#" xmlns:ns0="http://www.ncbi.nlm.nih.gov/genbank#" xmlns:ns1="http://sbols.org/genBankConversion#" xmlns:sbol="http://sbols.org/v2#">
+  <ns0:Reference rdf:about="http://synbict.org/BBF10K_000078/reference1">
+    <ns0:journal>https://biobricks.org/freegenes/</ns0:journal>
+    <ns0:authors>Scott Pownall, Open Science Network</ns0:authors>
+    <ns0:label>2  (bases 2002 to 2529)</ns0:label>
+    <ns0:title>Direct Submission</ns0:title>
+  </ns0:Reference>
+  <ns0:Reference rdf:about="http://synbict.org/BBF10K_000078/reference0">
+    <ns0:authors>Keoni Gandall</ns0:authors>
+    <ns0:title>Direct Submission</ns0:title>
+    <ns0:label>1  (bases 1 to 2001)</ns0:label>
+  </ns0:Reference>
+  <sbol:Sequence rdf:about="http://synbict.org/BBF10K_000078_seq">
+    <sbol:elements>cgctgaggtgtcaatcgtcggagccgctgagcaataactagcataaccccttggggcctctaaacgggtcttgaggggttttttgcatggtcatagctgtttcctgagagcttggcaggtgatgacacacattaacaaatttcgtgaggagtctccagaagaatgccattaatttccataggctccgcccccctgacgagcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagataccaggcgtttccccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttaccggatacctgtccgcctttctcccttcgggaagcgtggcgctttctcatagctcacgctgtaggtatctcagttcggtgtaggtcgttcgctccaagctgggctgtgtgcacgaaccccccgttcagcccgaccgctgcgccttatccggtaactatcgtcttgagtccaacccggtaagacacgacttatcgccactggcagcagccactggtaacaggattagcagagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttaccttcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaaggcctactattagcaacaacgatcctttgatcttttctacggggtctgacgctcagtggaacgaaaactcacgttaagggattttggtcatgagattatcaaaaaggatcttcacctagatccttttaaattaaaaatgaagttttaaatcaatctaaagtatatatgagtaaacttggtctgacagttaccaatgcttaatcagtgaggcacctatctcagcgatctgtctatttcgttcatccatagttgcctgactccccgtcgtgtagataactacgatacgggagggcttaccatctggccccagtgctgcaatgataccgcgagaaccacgctcaccggctccagatttatcagcaataaaccagccagccggaagggccgagcgcagaagtggtcctgcaactttatccgcctccatccagtctattaattgttgccgggaagctagagtaagtagttcgccagttaatagtttgcgcaacgttgttgccattgctacaggcatcgtggtgtcacgctcgtcgtttggtatggcttcattcagctccggttcccaacgatcaaggcgagttacatgatcccccatgttgtgcaaaaaagcggttagctccttcggtcctccgatcgttgtcagaagtaagttggccgcagtgttatcactcatggttatggcagcactgcataattctcttactgtcatgccatccgtaagatgcttttctgtgactggtgagtactcaaccaagtcattctgagaatagtgtatgcggcgaccgagttgctcttgcccggcgtcaatacgggataataccgcgccacatagcagaactttaaaagtgctcatcattggaaaacgttcttcggggcgaaaactctcaaggatcttaccgctgttgagatccagttcgatgtaacccactcgtgcacccaactgatcttcagcatcttttactttcaccagcgtttctgggtgagcaaaaacaggaaggcaaaatgccgcaaaaaagggaataagggcgacacggaaatgttgaatactcatactcttcctttttcaatattattgaagcatttatcagggttattgtctcatgagcggatacatatttgaatgtatttagaaaaataaacaaataggggttccgcgcacctgcaccagtcagtaaaacgacggccagtagtcaaaagcctccgaccggaggcttttgacttggttcaggtggagtgggagaacgatgatgctcactctcgggtctctggagaactgtgggaatactcaggtatcgtaagatgcaagagttcgaatctcttagcaaccattatttttttcctcaacataacgagaacacacaggggcgctatcgcacagaatcaaattcgatgactggaaattttttgttaatttcagaggtcgcctgacgcatatacctttttcaactgaaaaattgggagaaaaaggaaaggtgagagcgccggaaccggcttttcatatagaatagagaagcgttcatgactaaatgcttgcatcacaatacttgaagttgacaatattatttaaggacctattgttttttccaataggtggttagcaatcgtcttactttctaacttttcttaccttttacatttcagcaatatatatatatatttcaaggatataccattctaaatgtgagaccacggagcccttattgtaacctatacacttgggacaccgcgatagggataacagggtaattcaggaatgtatacctacgaa</sbol:elements>
+    <sbol:displayId>BBF10K_000078_seq</sbol:displayId>
+    <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078_seq"/>
+    <backport:sbol3namespace rdf:resource="http://synbict.org"/>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+    <sbol:version>1</sbol:version>
+  </sbol:Sequence>
+  <sbol:ComponentDefinition rdf:about="http://synbict.org/BBF10K_000078">
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation12">
+        <ns1:label>FreeGenes dialout primer</ns1:label>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation12/range">
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:end>2021</sbol:end>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation12/range"/>
+            <sbol:start>2002</sbol:start>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ApEinfo_fwdcolor>#0048BA</ns1:ApEinfo_fwdcolor>
+        <sbol:displayId>annotation12</sbol:displayId>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation12"/>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>FreeGenes dialout primer</dcterms:title>
+        <ns1:ApEinfo_revcolor>#0048BA</ns1:ApEinfo_revcolor>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0001411"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation10">
+        <dcterms:title>tonB terminator</dcterms:title>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <sbol:version>1</sbol:version>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation10/range">
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation10/range"/>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:end>1981</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:start>1950</sbol:start>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141"/>
+        <ns1:label>tonB terminator</ns1:label>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation10"/>
+        <sbol:displayId>annotation10</sbol:displayId>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation11">
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation11"/>
+        <ns1:label>Leu2 Promoter</ns1:label>
+        <sbol:version>1</sbol:version>
+        <sbol:displayId>annotation11</sbol:displayId>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000167"/>
+        <ns1:original_record>part</ns1:original_record>
+        <dcterms:title>Leu2 Promoter</dcterms:title>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation11/range">
+            <sbol:version>1</sbol:version>
+            <sbol:end>2438</sbol:end>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation11/range"/>
+            <sbol:start>2033</sbol:start>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:displayId>range</sbol:displayId>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation8">
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0001411"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation8/range">
+            <sbol:end>1932</sbol:end>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:start>1918</sbol:start>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation8/range"/>
+            <sbol:displayId>range</sbol:displayId>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation8"/>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>AarI</dcterms:title>
+        <ns1:label>AarI</ns1:label>
+        <sbol:displayId>annotation8</sbol:displayId>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation16">
+        <dcterms:title>BsaI</dcterms:title>
+        <sbol:version>1</sbol:version>
+        <ns1:featureType>protein_bind</ns1:featureType>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation16/range0">
+            <sbol:start>2439</sbol:start>
+            <sbol:end>2442</sbol:end>
+            <sbol:version>1</sbol:version>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation16/range0"/>
+            <sbol:displayId>range0</sbol:displayId>
+            <ns1:position>position1</ns1:position>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation16"/>
+        <ns1:multiRangeType>join</ns1:multiRangeType>
+        <sbol:displayId>annotation16</sbol:displayId>
+        <ns1:ApEinfo_revcolor>#00FF2C</ns1:ApEinfo_revcolor>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation16/range1">
+            <sbol:start>2444</sbol:start>
+            <sbol:displayId>range1</sbol:displayId>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+            <ns1:position>position0</ns1:position>
+            <sbol:version>1</sbol:version>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation16/range1"/>
+            <sbol:end>2449</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+        <ns1:label>BsaI</ns1:label>
+        <ns1:ApEinfo_fwdcolor>#00FF2C</ns1:ApEinfo_fwdcolor>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000110"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <backport:sbol3identity rdf:resource="http://synbict.org/BBF10K_000078"/>
+    <sbol:type rdf:resource="http://identifiers.org/so/SO:0000988"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation15">
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000110"/>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation15"/>
+        <sbol:displayId>annotation15</sbol:displayId>
+        <dcterms:title>BsaI</dcterms:title>
+        <ns1:multiRangeType>join</ns1:multiRangeType>
+        <ns1:featureType>protein_bind</ns1:featureType>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation15/range0">
+            <ns1:position>position0</ns1:position>
+            <sbol:start>2022</sbol:start>
+            <sbol:end>2027</sbol:end>
+            <sbol:version>1</sbol:version>
+            <sbol:displayId>range0</sbol:displayId>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation15/range0"/>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ApEinfo_revcolor>#00FF2C</ns1:ApEinfo_revcolor>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation15/range1">
+            <sbol:version>1</sbol:version>
+            <sbol:end>2032</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <ns1:position>position1</ns1:position>
+            <sbol:displayId>range1</sbol:displayId>
+            <sbol:start>2029</sbol:start>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation15/range1"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:version>1</sbol:version>
+        <ns1:ApEinfo_fwdcolor>#00FF2C</ns1:ApEinfo_fwdcolor>
+        <ns1:label>BsaI</ns1:label>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation7">
+        <ns1:original_record>pOpen_v3.1</ns1:original_record>
+        <dcterms:title>AmpR</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation7"/>
+        <sbol:displayId>annotation7</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <ns1:note>/ApEinfo_fwdcolor/translation=MSIQHFRVALIPFFAAFCLPVFAHPETLVKVKDAEDQLGARVGYIELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEYSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGASLIKHW*</ns1:note>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation7/range">
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+            <sbol:end>1812</sbol:end>
+            <sbol:version>1</sbol:version>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation7/range"/>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:start>952</sbol:start>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
+        <ns1:label>AmpR</ns1:label>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation6">
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation6"/>
+        <ns1:direction>LEFT</ns1:direction>
+        <sbol:displayId>annotation6</sbol:displayId>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation6/range">
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>173</sbol:start>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation6/range"/>
+            <sbol:end>761</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+        <ns1:label>ori</ns1:label>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000296"/>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>ori</dcterms:title>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <ns0:organism>recombinant plasmid .</ns0:organism>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation17">
+        <ns1:ApEinfo_fwdcolor>#4F0080</ns1:ApEinfo_fwdcolor>
+        <ns1:ApEinfo_revcolor>#4F0080</ns1:ApEinfo_revcolor>
+        <sbol:version>1</sbol:version>
+        <ns1:label>I-SceI</ns1:label>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000110"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation17/range">
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation17/range"/>
+            <sbol:end>2508</sbol:end>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:start>2491</sbol:start>
+            <sbol:displayId>range</sbol:displayId>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:displayId>annotation17</sbol:displayId>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation17"/>
+        <dcterms:title>I-SceI</dcterms:title>
+        <ns1:featureType>protein_bind</ns1:featureType>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <ns0:locus>BBF10K_000078</ns0:locus>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation4">
+        <dcterms:title>AarI</dcterms:title>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0001411"/>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <sbol:displayId>annotation4</sbol:displayId>
+        <ns1:label>AarI</ns1:label>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation4/range">
+            <sbol:end>121</sbol:end>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation4/range"/>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:start>107</sbol:start>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:version>1</sbol:version>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation4"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <ns0:molecule>DNA</ns0:molecule>
+    <sbol:version>1</sbol:version>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation13">
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation13"/>
+        <sbol:displayId>annotation13</sbol:displayId>
+        <ns1:ApEinfo_revcolor>#0048BA</ns1:ApEinfo_revcolor>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0001411"/>
+        <ns1:label>FreeGenes dialout primer</ns1:label>
+        <ns1:ApEinfo_fwdcolor>#0048BA</ns1:ApEinfo_fwdcolor>
+        <sbol:version>1</sbol:version>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation13/range">
+            <sbol:start>2450</sbol:start>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation13/range"/>
+            <sbol:end>2469</sbol:end>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+          </sbol:Range>
+        </sbol:location>
+        <dcterms:title>FreeGenes dialout primer</dcterms:title>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <ns0:reference rdf:resource="http://synbict.org/BBF10K_000078/reference0"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation1">
+        <dcterms:title>T7 Reverse</dcterms:title>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0005850"/>
+        <sbol:version>1</sbol:version>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation1"/>
+        <sbol:displayId>annotation1</sbol:displayId>
+        <ns1:label>T7 Reverse</ns1:label>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation1/range">
+            <sbol:end>42</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation1/range"/>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:start>24</sbol:start>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation2">
+        <sbol:displayId>annotation2</sbol:displayId>
+        <dcterms:title>T7 terminator</dcterms:title>
+        <sbol:version>1</sbol:version>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141"/>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation2/range">
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation2/range"/>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:end>85</sbol:end>
+            <sbol:start>38</sbol:start>
+            <sbol:displayId>range</sbol:displayId>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation2"/>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <ns1:label>T7 terminator</ns1:label>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000804"/>
+    <ns0:date>22-MAY-2018</ns0:date>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation3">
+        <dcterms:title>M13 rev</dcterms:title>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation3/range">
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:start>86</sbol:start>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+            <sbol:version>1</sbol:version>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation3/range"/>
+            <sbol:end>106</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation3"/>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <ns1:label>M13 rev</ns1:label>
+        <sbol:displayId>annotation3</sbol:displayId>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0005850"/>
+        <sbol:version>1</sbol:version>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation0">
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0002206"/>
+        <dcterms:title>recombinant plasmid</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation0"/>
+        <ns1:mol_type>other DNA</ns1:mol_type>
+        <ns1:organism>recombinant plasmid</ns1:organism>
+        <ns1:original_record>pOpen_v3.1</ns1:original_record>
+        <sbol:version>1</sbol:version>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation0/range">
+            <sbol:end>2001</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:start>1</sbol:start>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation0/range"/>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:displayId>annotation0</sbol:displayId>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <dcterms:description>Yeast promoter Leu2 in pOpen-v3.</dcterms:description>
+    <ns0:keywords>BBFD_0017; Open Yeast Collection Part; OpenMTA; FreeGenes; Golden Gate Assembly.</ns0:keywords>
+    <sbol:displayId>BBF10K_000078</sbol:displayId>
+    <backport:sbol3namespace rdf:resource="http://synbict.org"/>
+    <ns0:source>synthetic DNA construct</ns0:source>
+    <ns0:division>UNK</ns0:division>
+    <ns0:reference rdf:resource="http://synbict.org/BBF10K_000078/reference1"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation14">
+        <sbol:version>1</sbol:version>
+        <ns1:ApEinfo_fwdcolor>#FF7E00</ns1:ApEinfo_fwdcolor>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation14/range">
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation14/range"/>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:start>2470</sbol:start>
+            <sbol:end>2529</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0001411"/>
+        <ns1:ApEinfo_revcolor>#FF7E00</ns1:ApEinfo_revcolor>
+        <sbol:displayId>annotation14</sbol:displayId>
+        <dcterms:title>FreeGenes barcode</dcterms:title>
+        <ns1:label>FreeGenes barcode</ns1:label>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation14"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation9">
+        <sbol:displayId>annotation9</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation9"/>
+        <ns1:label>M13 fwd</ns1:label>
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0005850"/>
+        <dcterms:title>M13 fwd</dcterms:title>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation9/range">
+            <sbol:start>1933</sbol:start>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation9/range"/>
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:end>1949</sbol:end>
+            <sbol:version>1</sbol:version>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequence rdf:resource="http://synbict.org/BBF10K_000078_seq"/>
+    <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078"/>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="http://synbict.org/BBF10K_000078/annotation5">
+        <ns1:note>/ApEinfo_fwdcolor/original_record=pOpen_v3.1</ns1:note>
+        <ns1:label>spacer</ns1:label>
+        <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation5"/>
+        <sbol:version>1</sbol:version>
+        <dcterms:title>spacer</dcterms:title>
+        <sbol:location>
+          <sbol:Range rdf:about="http://synbict.org/BBF10K_000078/annotation5/range">
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+            <sbol:start>122</sbol:start>
+            <sbol:version>1</sbol:version>
+            <sbol:end>172</sbol:end>
+            <sbol:persistentIdentity rdf:resource="http://synbict.org/BBF10K_000078/annotation5/range"/>
+            <sbol:displayId>range</sbol:displayId>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:role rdf:resource="http://identifiers.org/so/SO:0001411"/>
+        <sbol:displayId>annotation5</sbol:displayId>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+  </sbol:ComponentDefinition>
+</rdf:RDF>
